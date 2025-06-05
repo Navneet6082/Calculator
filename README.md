@@ -1,6 +1,9 @@
 🧮 Modern Calculator
 A sleek, responsive, and feature-rich calculator built using HTML, CSS, and JavaScript. This modern calculator supports basic arithmetic operations, scientific constants, keyboard input, and includes a light/dark mode toggle with a clean, mobile-friendly UI.
 
+
+
+
 🚀 Features
 Responsive Design: Fully responsive layout optimized for both desktop and mobile screens.
 
@@ -16,12 +19,18 @@ Smart Input Handling: Prevents invalid expressions and auto-corrects trailing op
 
 Enhanced UI: Uses emoji as favicon and clean visual style with smooth transitions.
 
+
+
+
 🛠️ Tech Stack
 HTML5 – for structured content
 
 CSS3 – for layout and theming
 
 JavaScript (ES6) – for logic and interactivity
+
+
+
 
 🖥️ Usage
 Clone the repository or download the .html file.
